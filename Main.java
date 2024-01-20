@@ -8,9 +8,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Valitse järjestys: 1: Nouseva, 2: Laskeva, 3: Satunnainen");
-        //System.out.println("1. Nouseva järjestys");
-        //System.out.println("2. Laskeva järjestys");
-
+        
         int valinta = scanner.nextInt();
         int[] taulukko;
 
