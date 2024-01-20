@@ -6,4 +6,4 @@ ArrayUtils-luokka on työkalusetti taulukoiden alustamiseen (nouseva, laskeva, s
 
 AlgorithmPerformanceTracker koodin tarpeellisuus liittyy sen kykyyn tallentaa ja organisoida lajittelualgoritmien suorituskykytietoja siten, että ne voidaan myöhemmin esittää tai analysoida.
 
-CsvWriter-luokka on tarkoitettu kirjoittamaan lajittelualgoritmeistä saatava data CSV-tiedostoon. Se mahdollistaa lajittelualgoritmien suoritusajan tallentamisen pysyvään tiedostoon, joka on avattu ja analysoitu Excelissä taulukkomuotoon![image](https://github.com/jenni1505/program.java/assets/125802335/b276be8e-757e-493f-ab80-66163237106a)
+CsvWriter-luokka on tarkoitettu kirjoittamaan lajittelualgoritmeistä saatava data CSV-tiedostoon. Se mahdollistaa lajittelualgoritmien suoritusajan tallentamisen pysyvään tiedostoon, joka on avattu ja analysoitu Excelissä taulukkomuotoon.[image](https://github.com/jenni1505/program.java/assets/125802335/b276be8e-757e-493f-ab80-66163237106a)
