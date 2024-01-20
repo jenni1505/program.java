@@ -1,0 +1,109 @@
+Taulukko; Algoritmi; Toteustusaika 
+Nouseva;QuickSort;22214200
+Nouseva;BubbleSort;22454600
+Nouseva;SelectionSort;22859500
+Nouseva;ShellSort;2313700
+Nouseva;MergeSort;3999900
+;;
+Nouseva;QuickSort;22138700
+Nouseva;BubbleSort;25220600
+Nouseva;SelectionSort;46254100
+Nouseva;ShellSort;2302000
+Nouseva;MergeSort;2946600
+;;
+Nouseva;QuickSort;22402300
+Nouseva;BubbleSort;21560900
+Nouseva;SelectionSort;42584100
+Nouseva;ShellSort;2299300
+Nouseva;MergeSort;2414700
+;;
+Nouseva;QuickSort;27702100
+Nouseva;BubbleSort;22777400
+Nouseva;SelectionSort;20936500
+Nouseva;ShellSort;2314500
+Nouseva;MergeSort;2399000
+;;
+Nouseva;QuickSort;22785000
+Nouseva;BubbleSort;22374200
+Nouseva;SelectionSort;40061500
+Nouseva;ShellSort;3367300
+Nouseva;MergeSort;2698200
+;;
+Laskeva;QuickSort;47162700
+Laskeva;BubbleSort;40813600
+Laskeva;SelectionSort;57441900
+Laskeva;ShellSort;2572100
+Laskeva;MergeSort;2199800
+;;
+Laskeva;QuickSort;48320900
+Laskeva;BubbleSort;40845500
+Laskeva;SelectionSort;55843700
+Laskeva;ShellSort;2620300
+Laskeva;MergeSort;2137500
+;;
+Laskeva;QuickSort;47327700
+Laskeva;BubbleSort;41818400
+Laskeva;SelectionSort;55456300
+Laskeva;ShellSort;3608500
+Laskeva;MergeSort;2117900
+;;
+Laskeva;QuickSort;44492300
+Laskeva;BubbleSort;44508500
+Laskeva;SelectionSort;60334800
+Laskeva;ShellSort;3928700
+Laskeva;MergeSort;2737900
+;;
+Laskeva;QuickSort;48516400
+Laskeva;BubbleSort;41357300
+Laskeva;SelectionSort;54776000
+Laskeva;ShellSort;2730100
+Laskeva;MergeSort;2165100
+;;
+Random;QuickSort;3125400
+Random;BubbleSort;128267900
+Random;SelectionSort;50634100
+Random;ShellSort;13736700
+Random;MergeSort;3609000
+;;
+Random;QuickSort;1830300
+Random;BubbleSort;125371600
+Random;SelectionSort;44912000
+Random;ShellSort;3677100
+Random;MergeSort;3612400
+;;
+Random;QuickSort;2570900
+Random;BubbleSort;126831500
+Random;SelectionSort;46617900
+Random;ShellSort;4539800
+Random;MergeSort;3035900
+;;
+Random;QuickSort;2347700
+Random;BubbleSort;124307700
+Random;SelectionSort;43958300
+Random;ShellSort;4579100
+Random;MergeSort;3279600
+;;
+Random;QuickSort;2661200
+Random;BubbleSort;130623100
+Random;SelectionSort;117744100
+Random;ShellSort;3724900
+Random;MergeSort;3299900
+;;
+;;
+QuickSort; 23.44846;
+BubbleSort; 22.87754;
+SelectionSort; 34.53914;
+ShellSort; 2.51936;
+MergeSort; 2.89168;
+;;
+QuickSort; 47.164;
+BubbleSort; 41.86866;
+SelectionSort; 56.77054;
+ShellSort; 3.09194;
+MergeSort; 2.27164;
+;;
+QuickSort; 47.164;
+BubbleSort; 41.86866;
+SelectionSort; 56.77054;
+ShellSort; 3.09194;
+MergeSort; 2.27164;
