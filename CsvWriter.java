@@ -8,7 +8,7 @@ public class CsvWriter {
 
     public static void writeToCsv(String filePath, List<AlgorithmPerformanceTracker.AlgorithmPerformance> performances) {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath, true))) {
-            // Check if the header has been written before
+            // Tarkista, onko otsikko jo kirjoitettu (ei toimi odotetusti)
             if (!headerWritten) {
                 writer.write("Taulukko, Algoritmi, Toteustusaika ");
                 writer.newLine();
@@ -25,7 +25,7 @@ public class CsvWriter {
         }
     }
 
-    // resetFile-metodi tyhjentää tiedoston
+    // resetFile-metodi tyhjentää tiedoston, vaatii vielä laittoa toimiakseen.
     public static void resetFile(String filePath) {
         try (FileWriter fw = new FileWriter(filePath, false)) {
             // Kirjoittamalla merkkijonon, tiedosto tyhjennetään
