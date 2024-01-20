@@ -29,7 +29,7 @@ public class Main {
         algorithms.add(new ShellSort());
         algorithms.add(new QuickSort());
         algorithms.add(new MergeSort());
-        //algorithms.add(new SelectionSort());
+        algorithms.add(new SelectionSort());
 
         AlgorithmPerformanceTracker tracker = new AlgorithmPerformanceTracker(valinta == 1 ? "Nouseva" : valinta == 2 ? "Laskeva" : "Random");
         
